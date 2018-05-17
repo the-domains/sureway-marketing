@@ -1,10 +1,10 @@
-layout_spectrum: 0.32018492909517177
-typography_spectrum: 0.09495628235944648
+layout_spectrum: 0.8819774928592182
+typography_spectrum: 0.22919757152234416
 color:
-  brandStrength: 0.7609401693852563
-  lightness: 0.15399965674173788
-  saturation: 0.23530819790576135
-  rhythmicContrast: 0.014699449430653218
+  brandStrength: 0.7668411471017885
+  lightness: 0.15402561996113692
+  saturation: 0.23108450134561426
+  rhythmicContrast: 0.9261283805845583
   brandColors:
     - '#16193B'
     - '#35478C'
@@ -42,7 +42,6 @@ content:
       keywords:
         - ''
       description: Uploaded by NetQube on 2017-11-06.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=FcLaRiQ4npg&feature=applinks'
