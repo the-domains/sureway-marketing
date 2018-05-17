@@ -43,10 +43,10 @@ app_links:
     namespace: google
     type: ios
 title: NetQube Opportunity Video
-datePublished: '2018-05-17T17:29:47.215Z'
-dateModified: '2018-05-17T17:29:46.485Z'
+datePublished: '2018-05-17T17:30:13.782Z'
+dateModified: '2018-05-17T17:30:13.262Z'
 via: {}
-inFeed: true
+inFeed: false
 sourcePath: _posts/2018-05-17-netqube-opportunity-video.md
 hasPage: true
 starred: false
