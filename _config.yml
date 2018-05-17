@@ -51,6 +51,6 @@ author:
   name: Barry Scheurweghs
   email: surewaytolive@gmail.com
 purpose:
-  - type: external
-    url: 'http://nqsocial.com/surewaymarketing'
-    label: Contact Form
+  - type: internal
+    label: View Video 1
+    item: 22cedf7d-a126-462f-9479-5de1a703f809
