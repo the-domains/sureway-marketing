@@ -1,3 +1,16 @@
+layout_spectrum: 0.8987838483130615
+typography_spectrum: 0.7594179998977238
+color:
+  brandStrength: 0.7445702160188541
+  lightness: 0.15670337955246097
+  saturation: 0.09433916897088805
+  rhythmicContrast: 0.6637986782637637
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Sureway Marketing
-layout_spectrum: 0.2527003944851458
-typography_spectrum: 0.19072173768654466
-color:
-  brandStrength: 0.7440010530408472
-  lightness: 0.15677005960606039
-  saturation: 0.7461257087998092
-  rhythmicContrast: 0.6636785746086389
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -42,7 +42,6 @@ content:
       keywords:
         - ''
       description: Uploaded by NetQube on 2017-11-06.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=elfxQslSsTI&feature=applinks'
