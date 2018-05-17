@@ -43,8 +43,8 @@ app_links:
     namespace: google
     type: ios
 title: NetQube Opportunity Video
-datePublished: '2018-05-17T17:39:59.308Z'
-dateModified: '2018-05-17T17:39:58.763Z'
+datePublished: '2018-05-17T17:46:52.933Z'
+dateModified: '2018-05-17T17:46:51.901Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-17-netqube-opportunity-video.md
@@ -59,5 +59,7 @@ _context: 'http://schema.org'
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FRVyG882f-ww%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRVyG882f-ww&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRVyG882f-ww%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 [Sign Up Now][0]
+[Schedule a Call][1]
 
 [0]: http://nqsocial.com/surewaymarketing
+[1]: https://calendly.com/barryscheurweghs
