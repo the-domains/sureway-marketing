@@ -54,13 +54,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/RVyG882f-ww'
 title: NetQube Opportunity Video
-datePublished: '2018-05-17T15:45:16.809Z'
-dateModified: '2018-05-17T15:44:57.343Z'
-datePublishedOriginal: '2018-05-17T15:45:16.809Z'
+datePublished: '2018-05-17T16:13:28.817Z'
+dateModified: '2018-05-17T16:13:28.616Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-17-netqube-opportunity-video.md
+starred: false
+datePublishedOriginal: '2018-05-17T15:45:16.809Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
