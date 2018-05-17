@@ -1,0 +1,28 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Sureway Marketing
+layout_spectrum: 0.2527003944851458
+typography_spectrum: 0.19072173768654466
+color:
+  brandStrength: 0.7440010530408472
+  lightness: 0.15677005960606039
+  saturation: 0.7461257087998092
+  rhythmicContrast: 0.6636785746086389
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+content: []
+title: Welcome To Our Team
+description: NetQube Technology Company
+github: true
+author:
+  name: Barry Scheurweghs
+  email: surewaytolive@gmail.com
