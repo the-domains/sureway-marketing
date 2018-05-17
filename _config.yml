@@ -54,3 +54,6 @@ purpose:
   - type: internal
     label: View Video 1
     item: 22cedf7d-a126-462f-9479-5de1a703f809
+  - type: internal
+    label: View Video 2
+    item: 05f339fb-4504-41be-a847-7470838e38b6
