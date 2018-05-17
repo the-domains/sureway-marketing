@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -51,3 +50,7 @@ github: true
 author:
   name: Barry Scheurweghs
   email: surewaytolive@gmail.com
+purpose:
+  - type: external
+    url: 'http://nqsocial.com/surewaymarketing'
+    label: View Short Video & Complete Form
