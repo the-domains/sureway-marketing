@@ -51,13 +51,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/2cvNzxyDYNA'
 title: NetQube Home Based Business
-datePublished: '2018-05-17T16:10:56.663Z'
-dateModified: '2018-05-17T16:10:44.424Z'
-datePublishedOriginal: '2018-05-17T16:10:56.663Z'
+datePublished: '2018-05-17T16:13:28.827Z'
+dateModified: '2018-05-17T16:13:28.616Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-17-netqube-home-based-business.md
+starred: false
+datePublishedOriginal: '2018-05-17T16:10:56.663Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
