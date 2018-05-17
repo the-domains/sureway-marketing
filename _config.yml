@@ -1,10 +1,10 @@
-layout_spectrum: 0.3371222918121937
-typography_spectrum: 0.31348610674621225
+layout_spectrum: 0.3231291051989071
+typography_spectrum: 0.09517683119125811
 color:
-  brandStrength: 0.7987650136049321
-  lightness: 0.1562304072792061
-  saturation: 0.09281841292894344
-  rhythmicContrast: 0.478073307108134
+  brandStrength: 0.7636777577427502
+  lightness: 0.1516908020929129
+  saturation: 0.23379723462386814
+  rhythmicContrast: 0.012406840477747344
   brandColors:
     - '#16193B'
     - '#35478C'
@@ -42,7 +42,6 @@ content:
       keywords:
         - ''
       description: Netqube Introduction explained in 3 minutes
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=ajTHgH2iRCw&feature=applinks'
