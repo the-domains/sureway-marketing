@@ -43,9 +43,9 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://youtu.be/2cvNzxyDYNA'
-title: NetQube Home Based Business
-datePublished: '2018-05-17T17:19:52.225Z'
-dateModified: '2018-05-17T17:19:51.821Z'
+title: Building a Home Based Business
+datePublished: '2018-05-17T17:23:09.293Z'
+dateModified: '2018-05-17T17:23:08.763Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-17-netqube-home-based-business.md
