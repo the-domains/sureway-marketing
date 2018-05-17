@@ -11,7 +11,10 @@ publisher:
   domain: youtu.be
 keywords:
   - netqube automated affiliate marketing system.
-description: View The NetQube Video Below
+description: >-
+  NetQube Provides a fully automated affiliate marketing system that is
+  customized to your strengths and then streamlines the entire process so that
+  you can turn your social influences into a leveraged super affiliate network.
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=RVyG882f-ww&feature=applinks'
     type: ios
@@ -51,8 +54,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/RVyG882f-ww'
 title: NetQube Opportunity Video
-datePublished: '2018-05-17T16:41:16.625Z'
-dateModified: '2018-05-17T16:41:15.802Z'
+datePublished: '2018-05-17T17:11:07.986Z'
+dateModified: '2018-05-17T17:11:07.189Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-17-netqube-opportunity-video.md
@@ -62,6 +65,4 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-View The NetQube Video Below
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FRVyG882f-ww%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRVyG882f-ww&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRVyG882f-ww%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
