@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Barry Scheurweghs
-    url: 'https://www.youtube.com/user/surewaytoinvest'
-    avatar: {}
+author: []
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-  domain: youtu.be
+publisher: {}
 keywords:
   - netqube home based business
 description: ''
@@ -51,8 +44,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/2cvNzxyDYNA'
 title: NetQube Home Based Business
-datePublished: '2018-05-17T17:11:17.291Z'
-dateModified: '2018-05-17T17:11:16.795Z'
+datePublished: '2018-05-17T17:19:52.225Z'
+dateModified: '2018-05-17T17:19:51.821Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-17-netqube-home-based-business.md
