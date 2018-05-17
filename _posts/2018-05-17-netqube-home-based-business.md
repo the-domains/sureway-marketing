@@ -11,7 +11,7 @@ publisher:
   domain: youtu.be
 keywords:
   - netqube home based business
-description: Learn Why You Need To Build A Home Business
+description: ''
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=2cvNzxyDYNA&feature=applinks'
     type: ios
@@ -51,8 +51,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/2cvNzxyDYNA'
 title: NetQube Home Based Business
-datePublished: '2018-05-17T16:42:00.491Z'
-dateModified: '2018-05-17T16:41:59.866Z'
+datePublished: '2018-05-17T17:11:17.291Z'
+dateModified: '2018-05-17T17:11:16.795Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-17-netqube-home-based-business.md
@@ -62,6 +62,4 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-Learn Why You Need To Build A Home Business
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2cvNzxyDYNA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2cvNzxyDYNA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2cvNzxyDYNA%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
