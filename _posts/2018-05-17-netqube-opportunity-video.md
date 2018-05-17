@@ -43,8 +43,8 @@ app_links:
     namespace: google
     type: ios
 title: NetQube Opportunity Video
-datePublished: '2018-05-17T17:47:10.174Z'
-dateModified: '2018-05-17T17:47:10.049Z'
+datePublished: '2018-05-17T17:49:45.353Z'
+dateModified: '2018-05-17T17:49:44.718Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-17-netqube-opportunity-video.md
@@ -60,6 +60,8 @@ _context: 'http://schema.org'
 
 [Sign Up Now][0]
 [Schedule a Call][1]
+[NetQube Website][2]
 
 [0]: http://nqsocial.com/surewaymarketing
 [1]: https://calendly.com/barryscheurweghs
+[2]: https://netqubenavigate.com/surewaymarketing
