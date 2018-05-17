@@ -42,15 +42,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/RVyG882f-ww'
 title: NetQube Opportunity Video
-datePublished: '2018-05-17T17:22:23.759Z'
-dateModified: '2018-05-17T17:22:22.791Z'
+datePublished: '2018-05-17T17:29:47.215Z'
+dateModified: '2018-05-17T17:29:46.485Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-17-netqube-opportunity-video.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-17T15:45:16.809Z'
+url: netqube-opportunity-video/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
