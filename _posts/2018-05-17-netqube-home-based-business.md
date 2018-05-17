@@ -42,15 +42,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/2cvNzxyDYNA'
 title: Building a Home Based Business
-datePublished: '2018-05-17T17:23:09.293Z'
-dateModified: '2018-05-17T17:23:08.763Z'
+datePublished: '2018-05-17T17:30:01.908Z'
+dateModified: '2018-05-17T17:30:01.148Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-17-netqube-home-based-business.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-17T16:10:56.663Z'
+url: building-a-home-based-business/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
