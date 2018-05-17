@@ -43,8 +43,8 @@ app_links:
     namespace: google
     type: ios
 title: Building a Home Based Business
-datePublished: '2018-05-17T17:47:38.024Z'
-dateModified: '2018-05-17T17:47:37.606Z'
+datePublished: '2018-05-17T17:49:18.992Z'
+dateModified: '2018-05-17T17:49:18.341Z'
 via: {}
 inFeed: false
 sourcePath: _posts/2018-05-17-netqube-home-based-business.md
@@ -60,6 +60,8 @@ _context: 'http://schema.org'
 
 [Sign Up Now][0]
 [Schedule a Call][1]
+[NetQube Website][2]
 
 [0]: http://nqsocial.com/surewaymarketing
 [1]: https://calendly.com/barryscheurweghs
+[2]: https://netqubenavigate.com/surewaymarketing
