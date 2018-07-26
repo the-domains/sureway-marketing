@@ -50,5 +50,8 @@ github: true
 author:
   name: Barry Scheurweghs
   email: surewaytolive@gmail.com
-purpose: []
+purpose:
+  - type: external
+    url: 'https://calendly.com/barryscheurweghs'
+    label: Schedule a Call
 url: 'https://thegrid.ai/sureway-marketing'
