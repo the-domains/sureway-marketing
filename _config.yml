@@ -54,4 +54,7 @@ purpose:
   - type: internal
     label: View Video
     item: 7c04cb97-8037-4814-9306-c4980c041231
+  - type: external
+    url: 'https://calendly.com/barryscheurweghs'
+    label: Schedule a Call
 url: 'https://thegrid.ai/sureway-marketing'
