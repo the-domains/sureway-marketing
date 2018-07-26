@@ -50,5 +50,8 @@ github: true
 author:
   name: Barry Scheurweghs
   email: surewaytolive@gmail.com
-purpose: []
+purpose:
+  - type: internal
+    label: View Video
+    item: 7c04cb97-8037-4814-9306-c4980c041231
 url: 'https://thegrid.ai/sureway-marketing'
