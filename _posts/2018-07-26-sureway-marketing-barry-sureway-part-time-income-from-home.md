@@ -19,12 +19,7 @@ keywords:
   - online income from hime
   - sureway marketing
   - ...
-description: >-
-  http://easy75k.com Sureway Marketing Barry Sureway Part-Time Income From Home
-  Barry Scheurweghs Owner of Sureway Marketing, I help people not only survive
-  but thrive in this crazy world of instability & uncertainty. Belief is an
-  amazing concept... Once you have it, it's infectious. Sureway Marketing
-  provides the right opportunity to fast-track your career to the next level?
+description: ''
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=761SkiY56EA&feature=applinks'
     type: ios
@@ -63,15 +58,15 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://youtu.be/761SkiY56EA'
-title: Sureway Marketing Barry Sureway Part-Time Income From Home
-datePublished: '2018-07-26T02:10:40.499Z'
-dateModified: '2018-07-26T02:10:31.126Z'
-datePublishedOriginal: '2018-07-26T02:10:40.499Z'
+title: Sureway Marketing
+datePublished: '2018-07-26T02:11:36.965Z'
+dateModified: '2018-07-26T02:11:36.297Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-07-26-sureway-marketing-barry-sureway-part-time-income-from-home.md
+starred: false
+datePublishedOriginal: '2018-07-26T02:10:40.499Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
